@@ -1,0 +1,20 @@
+{
+  "name": "merkle",
+  "version": "1.0.0",
+  "description": "A Merkle tree implementation",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.3.3",
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Paturages",
+  "license": "MIT"
+}
